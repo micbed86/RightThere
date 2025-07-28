@@ -34,7 +34,7 @@
     -   [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepofghjmenjbbm)
 
 2.  **Install RightThere:**
-    -   **[Click here to install the script](https://github.com/micbed86/RightThere/raw/main/RightThere.user.js)**
+    -   **[Click here to install the script](https://github.com/micbed86/RightThere/releases/download/v0.9/RightThere-0.9.user.js)**
     -   Your UserScript manager will open a new tab. Click the "Install" button.
 
 The script is now installed and ready for configuration!
