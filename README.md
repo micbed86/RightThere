@@ -78,16 +78,28 @@ If you want to install from the source code:
 
 ## ⚙️ Getting Started
 
-Before you can use RightThere, you need to configure your API key.
+Before you can use RightThere, you need to configure your API key. The following steps guide you through the manual setup.
 
 1. **Open the Settings Panel:** Press the activation shortcut (`Alt + Q` by default) on any webpage, then click the **settings icon** (⚙️).
 2. **Enter API Key:** In the `OpenRouter API Key` field, paste your key. You can get a key from [OpenRouter.ai](https://openrouter.ai/).
 3. **Customize (Optional):**
-   * **Activation Shortcut:** Click the input field and press your desired key combination.
-   * **Default Model:** Choose your preferred AI model from the extensive dropdown list. Models with Vision or Reasoning capabilities are highlighted.
-   * **Items:** Click "Add New Prompt" or "Add New Folder" to start building your library.
-   * **Appearance:** Adjust the theme, panel color, and opacity to your liking.
+  - **Activation Shortcut:** Click the input field and press your desired key combination.
+  - **Default Model:** Choose your preferred AI model from the extensive dropdown list. Models with Vision or Reasoning capabilities are highlighted.
+  - **Items:** Click "Add New Prompt" or "Add New Folder" to start building your library from scratch.
+  - **Appearance:** Adjust the theme, panel color, and opacity to your liking.
 4. **Save & Close:** Click the "Save & Close" button. You're all set!
+
+---
+
+### 💡 Quick Start: Import Example Settings
+
+To get up and running instantly without creating all your prompts from scratch, this repository includes a pre-configured settings file packed with useful, high-quality examples.
+
+1. **[Download the `RightThere_settings_example.json` file](https://github.com/micbed86/RightThere/blob/main/RightThere_settings_example.json).**
+2. Open the RightThere settings panel (`Alt + Q` -> ⚙️ icon).
+3. Click the **Import** button (at the bottom) and select the file you just downloaded.
+
+You will now have a collection of well-engineered prompts for common tasks like translation, text rewriting, and summarization, ready to use immediately!
 
 ---
 
@@ -126,4 +138,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *Created by micbed86*
+
 
