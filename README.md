@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <em><strong>(It is highly recommended to add a GIF screencast here showing the extension in action)</strong></em>
+  <em><img src="https://host398815.xce.pl/drive/img/msedge_0a5kaa43Gz.png" alt="MainWindowExample"></em>
   <br>
   </p>
 
@@ -126,3 +126,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *Created by micbed86*
+
